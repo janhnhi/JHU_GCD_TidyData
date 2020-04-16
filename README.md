@@ -9,7 +9,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Description of the variables, the data, and any transformations necessary to clean up the data.
 
 ## run_analysis.R
-This script does the following:
+This script does the following as long as the appropriate data set is located in the working directory:
 
 1. Merges the training and the test sets to create one data set.
 
